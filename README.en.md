@@ -10,7 +10,7 @@ They say:
 
 Let's go.
 
-And the snake, who lived behind that field, in the forest, took it and rolled it up, and dragged his own to his palaces. When the sister carried the brothers to dinner, she followed that skiff and continued until she entered the snake yard.
+And the snake, who lived behind that field, in the forest, took it and rolled it up, and dragged his own to his palaces. As soon as the sister carried the brothers to dinner, she followed that skiff and continued until she entered the snake yard.
 
 There the snake caught her.
 
@@ -18,7 +18,7 @@ The sons came home in the evening and said to their mother:
 
 \- They plowed all day, but you didn't send us to dinner.
 
-\- Why didn't you send it? After all, Olenka suffered. I thought he would come back with you. Didn't get lost?
+\- Somehow she didn't send it? After all, Olenka suffered. I thought he would come back with you. Didn't get lost?
 
 The brothers say:
 
@@ -78,7 +78,7 @@ Took her back to the blacksmith.
 
 "On," he says, "make sure it's on me!"
 
-The blacksmith forged an even bigger one. Kotygoroshko also threw that up and lay down again for twelve days. On the thirteenth day, that mace flies back, roars so that the earth trembles. Kotygoroshka was woken up, he jumped up, put his finger up, and the mace hit him. him - just bent a little.
+The blacksmith forged an even bigger one. Kotygoroshko also threw that up and lay down again for twelve days. On the thirteenth day, that mace flies back, roars so that the earth trembles. Kotygoroshka was woken up, he jumped up, put his finger up, and the mace hit him. him - only slightly bent.
 
 \- Well, with this mace you can look for brothers and sisters. Bake the loaves and dry the crackers, mom, I'll go.
 
@@ -88,7 +88,7 @@ He followed that skiff, that ancient one that was still a little known, and went
 
 \- You were healthy, girl!
 
-"I was fine, mate!" But why did you come here: if a snake flies, then it will eat you!
+\- I was fine, old man! But why did you come here: if a snake flies, then it will eat you!
 
 \- So, maybe he won't eat it! And who are you?
 
@@ -96,11 +96,11 @@ He followed that skiff, that ancient one that was still a little known, and went
 
 \- Where are they? - asks Kotygoroshko.
 
-\- I threw the snake into the dungeon, and I don't know if it's still alive, or maybe it has rotted to ashes.
+\- I threw the snake into the dungeon, and I don't know if it's still alive, or maybe it's rotted to ashes.
 
 "So, maybe I'll free you," says Kotygoroshko.
 
-\- Where do you want to be freed? Six did not deliver, but you yourself! - says Olenka.
+\- Where do you want to be freed? Six didn't deliver, or you would have! - says Olenka.
 
 \- In vain! — answers Kotygoroshko.
 
@@ -124,7 +124,7 @@ They came The snake says:
 
 \- No, - says Kotygoroshko, - hit first!
 
-The snake struck him on the bones and buried him in an iron shaft. He tore off Kotyhoroshko's legs, as he swung his mace, as he struck the snake, he drove him into an iron stream up to his knees. The snake broke out, struck Kotygoroshka - and buried him up to his knees. He struck Kotygoroshko a second time, drove the snake up to his waist into a stream, struck a third time, and completely killed him.
+The snake struck him on the bones and buried him in an iron shaft. He tore off Kotyhoroshko's legs, as he swung his mace, as he struck the snake, he drove him into an iron stream up to his knees. The snake broke out, struck Kotygoroshka - and buried him up to his knees. He struck Kotygoroshko a second time, drove the snake up to his waist into a stream, struck a third time, and killed him completely.
 
 Then he went to the deep dungeons, unlocked his brothers, and they were barely alive.
 
@@ -156,7 +156,7 @@ He goes and goes when he looks - there is a mountain and there is a mountain, an
 
 \- Good morning!
 
-— Good health!
+\- Good health!
 
 \- What are you doing, man?
 
@@ -176,7 +176,7 @@ He goes and goes when he looks - there is a mountain and there is a mountain, an
 
 They go when they see a man waving his hand in the middle of the forest, uprooting oak trees. Good afternoon!
 
-— Good health!
+\- Good health!
 
 \- What are you doing, man?
 
@@ -200,9 +200,9 @@ They are walking when they see a man with a huge mustache sitting over the river
 
 They are to him:
 
-— Добридень!
+\- Good morning!
 
-— Good health!
+\- Good health!
 
 "What are you doing here, man?"
 
@@ -238,7 +238,7 @@ The door opened, and again someone shouted:
 
 \- Not a big man, you can climb over yourself.
 
-When a small grandfather climbs in, and his beard drags on a fathom. How he grabbed Vernyhora by the forelock and pinned him to a whistle on the wall. And he himself ate, drank, and served everything that was boiled.
+When a small grandfather climbs in, and his beard drags on a fathom. How he grabbed Vernyhora by the forelock and pinned him to a whistle on the wall. And he himself ate and drank everything that was boiled and served.
 
 Vernigora spun around, somehow broke free from the whistle, rushed to cook again; by the time the comrades arrived, he was already cooking.
 
@@ -248,7 +248,7 @@ Vernigora spun around, somehow broke free from the whistle, rushed to cook again
 
 On the second day they get up, Kotygoroshko says:
 
-— Ну, тепер ти, Вернидубе, зоставайся, ми підемо на полювання.
+\- Well, now you, Vernidub, stay, we'll go hunting.
 
 They left, and Vernydub cooked food and went to rest. Until someone knocks on the door:
 
@@ -260,9 +260,9 @@ They left, and Vernydub cooked food and went to rest. Until someone knocks on th
 
 \- Not a big man, you can climb over yourself.
 
-When the old man climbs, he is small, and his beard drags for a fathom. How he grabbed Vernydub by the forehead and touched the whistle. And he himself ate, drank, and served everything that was boiled.
+When the old man climbs, he is small, and his beard drags for a fathom. How he grabbed Vernydub by the forehead and touched the whistle. And he himself ate and drank everything that was boiled and served.
 
-Vernydub was floundering, floundering, somehow he got off the whistle already there and, well, hurry up and cook dinner. When it comes company.
+Vernydub was struggling, struggling, somehow he had already lost his whistle and, well, hurry up and cook dinner. When it comes company.
 
 \- Why are you late for lunch?
 
@@ -288,9 +288,9 @@ Took Kotygoroshko, transplanted. When he kicks to him, kicks.
 
 "But you'll see what," says the grandfather, he reached his forehead and just wanted to grab it, and Kotygoroshko:
 
-\- That's who you are! - and so - grabbed his beard, grabbed an ax, dragged him into the forest, split an oak tree, put it in the split grandfather's beard and stuck it there.
+\- That's what you are! - and so - grabbed his beard, grabbed an ax, dragged him into the forest, split an oak tree, put it in the split grandfather's beard and stuck it there.
 
-"If you're like that, grandpa," he says, "you're going to get into trouble right now, then sit here, I'll come here again."
+"If you're like this," he says, "grandpa, you're going to get into trouble right now, then sit here, I'll come here again."
 
 He comes to the house, and the company has already arrived.
 
@@ -298,13 +298,13 @@ He comes to the house, and the company has already arrived.
 
 \- Long time ago. They had lunch, and then Kotygoroshko said:
 
-\- And just go, - I will show you such a miracle, what!
+— А ходіть лишень,— я вам таке диво покажу, що ну!
 
-They come to that oak tree, when there is no old man, no oak: the old man uprooted the oak tree and pulled the train with him. Then Kotygoroshko told his friends what had happened to him, and they already confessed about theirs, how their grandfather grabbed their forelock.
+They come to that oak, when there is no old man, no oak: the old man of the oak uprooted and dragged the train with him. Then Kotygoroshko told his friends what had happened to him, and they already confessed about theirs, how their grandfather grabbed their forelock.
 
 \- If he is like that, then let's go look for him.
 
-And where the old man of that oak drags, - that's how you know what's being dragged - they follow that trail. And so they reached a deep pit, the bottom of which is not visible.
+And where the old man of that oak drags, - there you know what is dragged - they follow that path. And so they reached a deep pit, the bottom of which is not visible.
 
 Kotygoroshko says:
 
@@ -340,7 +340,7 @@ When Kotygoroshka saw it, he said:
 
 \- Why did you come? Fight or reconcile?
 
-"Why not," says Kotygoroshko, "to reconcile, to fight!" That's how they started to fight. They fought, they fought. And still Kotygoroshko killed the old man with his mace.
+"Why not," says Kotygoroshko, "to reconcile, to fight!" That's how they started to fight. They fought, they fought. And Kotygoroshko killed the old man with his mace.
 
 Then he and the queen together took all the gold and precious stones in three sacks and went to the pit through which he descended. And he went and shouted:
 
@@ -362,7 +362,7 @@ And the third gave them everything he got. Then he tied the queen to the rope.
 
 \- Why are we going to drag him? May the queen get to us better. Let's pull him up and then let go, he will fall and kill himself.
 
-And Kotyhoroshko guessed what they had already thought of, he took a stone and tied it to a rope and shouted:
+And Kotygoroshko guessed what they had already thought of, he took a stone and tied it to a rope and shouted:
 
 \- Pull me!
 
@@ -382,18 +382,18 @@ And the children say:
 
 \- There the man is sitting under the tree, then he covered it. The vulture flew to Kotygoroshka and said:
 
-\- Tell me what you need - I will give you everything, because this is the first time that my children have remained alive, and that's all - I will fly away, and then there will be rain and hail - they will be in the nest and flooded.
+\- Say what you need - I will give you everything, because this is the first time that my children have remained alive, and that's all - I will fly away, and then there will be rain and hail - they will be in the nest and flooded.
 
 "Take me away," says Kotygoroshko, "to the other world."
 
 \- Well, you gave me a good riddle. It's no use, you have to fly. Let's take six kadovbs of meat and six kadovbs of water with us, then if I fly and turn my head to the right, then you will throw a piece of meat into my mouth, and if I turn to the left, then give me some water, otherwise I won't make it and fall
 
-They took six kadovbs of meat and six kadovbs of water, Kotygoroshko sat on the vulture, and flew away. They fly and fly, when the vulture turns its head to the right, Kotygoroshko will throw a piece of meat into its mouth, and when it turns to the left, it will give it some water. They have been flying like this for a long time, and now they are already flying to this world...
+They took six kadovbs of meat and six kadovbs of water, Kotygoroshko sat on the vulture, and flew away. They fly and fly, when the vulture turns its head to the right, Kotygoroshko will throw a piece of meat into its mouth, and when it turns to the left, it will give it some water. They flew like this for a long time, and now they are already flying to this world...
 
-Grif then returned home, and Kotygoroshko went to look for his friends. And they have already gone to the place where the queen's father lives, and they are quarreling among themselves: everyone wants to marry the queen, but they will not reconcile.
+Grif then returned home, and Kotygoroshko went to look for his friends. And they have already gone to the place where the queen's father is, there they live with him and quarrel among themselves: everyone wants to marry the queen, but they will not reconcile.
 
 When it passes Kotygoroshko. They were frightened, and he says:
 
-\- You betrayed me, I must punish you! And I did.
+\- You betrayed me, I have to punish you! And I did.
 
 And he himself married that queen and lives.
